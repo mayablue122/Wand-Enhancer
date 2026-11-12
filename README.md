@@ -31,7 +31,7 @@ The patcher modifies files in the selected local Wand installation. By default i
 ![2](./assets/screenshots/app2.png)
 </div>
 
-## License
+## License 
 
 Apache-2.0, see [LICENSE](LICENSE.md).
 
